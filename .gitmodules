@@ -3,6 +3,26 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "epivizr"]
+	path = epivizr
+	url = https://git.bioconductor.org/packages/epivizr
+	shallow = true
+	registered = true
+[submodule "epivizrChart"]
+	path = epivizrChart
+	url = https://git.bioconductor.org/packages/epivizrChart
+	shallow = true
+	registered = true
+[submodule "epivizrStandalone"]
+	path = epivizrStandalone
+	url = https://git.bioconductor.org/packages/epivizrStandalone
+	shallow = true
+	registered = true
+[submodule "metavizr"]
+	path = metavizr
+	url = https://git.bioconductor.org/packages/metavizr
+	shallow = true
+	registered = true
 [submodule "Rcsdp"]
 	path = Rcsdp
 	url = https://github.com/hcorrada/rcsdp
