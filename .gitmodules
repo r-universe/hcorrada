@@ -5,12 +5,3 @@
 [submodule "Rcsdp"]
 	path = Rcsdp
 	url = https://github.com/hcorrada/rcsdp
-[submodule "epivizr"]
-	path = epivizr
-	url = https://git.bioconductor.org/packages/epivizr
-[submodule "epivizrChart"]
-	path = epivizrChart
-	url = https://git.bioconductor.org/packages/epivizrChart
-[submodule "epivizrStandalone"]
-	path = epivizrStandalone
-	url = https://git.bioconductor.org/packages/epivizrStandalone
